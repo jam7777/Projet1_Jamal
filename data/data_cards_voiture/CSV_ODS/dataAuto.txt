@@ -1,0 +1,159 @@
+---------------------------IMAGE_VOITURE_70-----------------------
+"./front/images/img_Voiture_70_80/Voiture/dodge_charger_general_lee.jpg" 
+"./front/images/img_Voiture_70_80/Voiture/Ferrari_308_GTS_Magnum.jpg" 
+"./front/images/img_Voiture_70_80/Voiture/Ford_Torino_Starsky_Hutch.jpg" 
+"./front/images/img_Voiture_70_80/Voiture/Aston_Martin_Brett.jpg" 
+"./front/images/img_Voiture_70_80/Voiture/Ford_Mustang_Bullit.jpg" 
+"./front/images/img_Voiture_70_80/Voiture/Coccinelle_disney.jpg" 
+"./front/images/img_Voiture_70_80/Voiture/GMC_Sierra_Tombe_pic.jpg" 
+"./front/images/img_Voiture_70_80/Voiture/Mercedes_R107_380_SL.jpg" 
+"./front/images/img_Voiture_70_80/Voiture/Peugeot_403_Columbo.jpg" 
+"./front/images/img_Voiture_70_80/Voiture/Pontiac_Firebird_Trans_Am.jpg" 
+"./front/images/img_Voiture_70_80/Voiture/Ferrari_Testarossa_flic_miami.jpg" 
+"./front/images/img_Voiture_70_80/Voiture/Jeep_Wrangler_YJ_Mc_Gayver.jpg" 
+"./front/images/img_Voiture_70_80/Voiture/GMC_Vandura_Agence_tous_risques.jpg" 
+"./front/images/img_Voiture_70_80/Voiture/La_Buick_Century_455_de_KOJAK.jpg" 
+"./front/images/img_Voiture_70_80/Voiture/Lotus_Elan_Madame_Peel.jpg" 
+"./front/images/img_Voiture_70_80/Voiture/Dolorean_de_Retour_vres_le_futur.png"
+ 
+"./front/images/img_Voiture_70_80/Serie/Sheriif_fait_moi_peur.jpg"
+"./front/images/img_Voiture_70_80/Voiture/dodge_charger_general_lee.jpg"
+"./front/images/img_Voiture_70_80/Serie/Sheriif_fait_moi_peur.jpg"
+"./front/images/img_Voiture_70_80/Voiture/dodge_charger_general_lee.jpg"
+" ./front/images/img_Voiture_70_80/Serie/Magnum.jpg "
+"./front/images/img_Voiture_70_80/Voiture/Ferrari_308_GTS_Magnum.jpg"
+"./front/images/img_Voiture_70_80/Serie/starsky-hutch.jpg"
+"./front/images/img_Voiture_70_80/Voiture/Ford_Torino_Starsky_Hutch.jpg"
+"./front/images/img_Voiture_70_80/Serie/Amicalement_Votre.jpg"
+"./front/images/img_Voiture_70_80/Voiture/Aston_Martin_Brett.jpg"
+"./front/images/img_Voiture_70_80/Serie/McQueen_Bullit.jpg"
+"./front/images/img_Voiture_70_80/Voiture/Ford_Mustang_Bullit.jpg"
+"./front/images/img_Voiture_70_80/Serie/Lacoccinelle_film.jpg"
+"./front/images/img_Voiture_70_80/Voiture/Coccinelle_disney.jpg "
+"./front/images/img_Voiture_70_80/Serie/homme_qui_tombe_a_pic_jpg.jpg "
+"./front/images/img_Voiture_70_80/Voiture/GMC_Sierra_Tombe_pic.jpg  "
+"./front/images/img_Voiture_70_80/Serie/Hart.jpg  "
+"./front/images/img_Voiture_70_80/Voiture/Mercedes_R107_380_SL.jpg"
+"./front/images/img_Voiture_70_80/Serie/Columbo.jpg"
+"./front/images/img_Voiture_70_80/Voiture/Peugeot_403_Columbo.jpg"
+"./front/images/img_Voiture_70_80/Serie/Kitt2000.jpg  "
+"./front/images/img_Voiture_70_80/Voiture/Pontiac_Firebird_Trans_Am.jpg"
+"./front/images/img_Voiture_70_80/Serie/Miami.jpg "
+"./front/images/img_Voiture_70_80/Voiture/Ferrari_Testarossa_flic_miami.jpg"
+"./front/images/img_Voiture_70_80/Serie/Mc_Gayver.jpg  "
+"./front/images/img_Voiture_70_80/Voiture/Jeep_Wrangler_YJ_Mc_Gayver.jpg"
+"./front/images/img_Voiture_70_80/Serie/Agence_tout_risque.jpg "
+"./front/images/img_Voiture_70_80/Voiture/GMC_Vandura_Agence_tous_risques.jpg"
+"./front/images/img_Voiture_70_80/Serie/KOJAK.jpg"
+"./front/images/img_Voiture_70_80/Voiture/La_Buick_Century_455_de_KOJAK.jpg"
+"./front/images/img_Voiture_70_80/Serie/Miss_Peel.jpg "
+"./front/images/img_Voiture_70_80/Voiture/Lotus_Elan_Madame_Peel.jpg"
+"./front/images/img_Voiture_70_80/Serie/Retour_vers_le_futur.jpg"
+"./front/images/img_Voiture_70_80/Voiture/Dolorean_de_Retour_vres_le_futur.png"
+---------------------------TITRE_VOITURE_70-----------------------
+La DODGE CHALLENGER 
+LA FERRARI 308 GTS 
+LA FORD TORINO 
+ASTON MARTIN 
+FORD MUSTANG BULLIT
+LA COCCINELLE
+GMC SIERRA
+MERCEDES R107
+PEUGEOT 403
+PONTIAC FIREBIRD TRANS AM
+FERARI TESTAROSA
+JEEP WRANGER
+GMC VENDURA
+BUICK CENTURY
+LOTUS ELAN
+DOLOREAN
+DODGE CHARGER
+FERRARI 308 GTS
+FORD TORINO
+ASTON MARTIN
+FORD MUSTANG
+COCCINELLE
+GMC SIERRA
+MERCEDES R107
+PEUGEOT 403
+PONTIAC TRANS AM
+FERRARI TESTAROSSA
+JEEP WRANGLER
+GMC VENDURA
+BUICK CENTURY
+DOLOREAN
+---------------------------ANNEE_VOITURE_70-----------------------
+ 
+
+1975
+1973
+1972
+1977
+1979
+1975
+1983
+1981
+1975
+1978
+1982
+1983
+1985
+1969
+1968
+1981
+---------------------------PRIX_VOITURE_70-----------------------
+ 
+
+30000€
+60000€
+25000€$
+110000€
+50000€
+20000€
+15000€
+30000€
+25000€
+20000€
+70000€
+20000€
+15000€
+60000€
+75000€
+40000€
+75000
+40000
+---------------------------Puissance_VOITURE_70-----------------------                  
+260ch
+300ch
+200ch
+270ch
+230ch
+100ch
+230ch
+230ch
+230ch
+230ch
+230ch
+230ch
+150ch
+230ch
+230ch
+230ch
+   ---------------------------Km_VOITURE_70-----------------------                
+
+                  
+145000
+178000
+80000
+100000
+108000
+100000
+100000
+100000
+100000
+100000
+100000
+160000
+100000
+100000
+100000

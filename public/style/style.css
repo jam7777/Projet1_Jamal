@@ -1,0 +1,510 @@
+html,
+body {
+  margin: 0;
+  color: rgba(0, 0, 0, 0.54);
+  background: #ececec;
+  font-family: "Raleway", sans-serif;
+  width: 100%;
+}
+header {
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+h1 {
+  font-family: "rockstar", cursive;
+}
+
+.navbar-brand:hover {
+  color: white;
+  text-decoration: none;
+  transition: 100ms;
+  text-shadow: 3px 3px 3px grey;
+}
+
+.liens_nav:hover {
+  color: white;
+  text-decoration: none;
+  transition: 100ms;
+  padding: 3px;
+  text-shadow: 3px 3px 3px grey;
+}
+
+.register {
+  font-family: "rockstar", cursive;
+}
+
+.register:hover {
+  opacity: 1;
+  box-shadow: 1px 1px 1px 1px;
+  transition: 250ms;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 70px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+
+/* pas de doublons sur les classe ci-dessus */
+
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
+
+@font-face {
+  font-family: "york";
+  src: url("/public/fonts/yorkwhiteletter.otf"), url("./front/fonts/yorkwhiteletter.ttf");
+}
+@font-face {
+  font-family: "shinyday";
+  src: url("/public/fonts/Shinyday\ free\ personal\ use.ttf");
+}
+@font-face {
+  font-family: "rockstar";
+  src: url("/public/fonts/rockstar\ free\ personal\ use.ttf");
+}
+.navbar-brand {
+  font-family: "york";
+  font-size: 4rem;
+}
+
+nav {
+  font-family: "rockstar", cursive;
+  font-size: 1.6rem;
+}
+
+#PduMois {
+  width: 100%;
+}
+#carouselExampleCaptions {
+  width: 100%;
+}
+
+#PduMois h1 {
+  text-align: center;
+  font-family: "york", cursive;
+  text-transform: uppercase;
+  color: rgb(88, 104, 93);
+  font-size: 4rem;
+}
+
+.carousel-caption h5 {
+  font-size: 2vw;
+  font-family: "rockstar", cursive;
+  color: red;
+}
+
+.carousel-caption p {
+  font-size: 1vw;
+  font-family: "shinyday", cursive;
+  color: rgb(220, 220, 220);
+}
+
+.card {
+  background: linear-gradient(
+    rgba(220, 220, 220, 0.3),
+    rgba(220, 220, 220, 0.3)
+  );
+}
+.produits_star_cards {
+  margin-top: 8%;
+}
+.card h3 {
+  font-size: 2vw;
+  font-family: "rockstar", cursive;
+}
+
+.image_produit_star {
+  max-height: 100%;
+}
+
+.btn-seConnecter {
+  font-family: "rockstar", cursive;
+  font-size: 1.6rem;
+}
+
+.bd-example {
+  margin: 0 auto;
+}
+
+#pdf {
+  display: block;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 940px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+ul {
+  list-style: none;
+}
+
+.jumbotron {
+  margin-bottom: 0;
+}
+
+.card-img-overlay {
+  padding-top: 10rem;
+}
+
+@media screen and (max-width : 576px) {
+  .card-img-overlay {
+    padding-top: 5rem;
+  }
+}
+
+
+.fa-arrow-alt-circle-right {
+  font-size: 3rem;
+}
+
+.card_article:hover .fleche {
+    color: #343a40;
+    transition: 250ms;
+}
+.noStyle {
+  color: #ffff;
+}
+
+.noStyle:hover .card-title {
+  color: #ffff;
+}
+
+/* CAROUSSEL */
+
+footer {
+  color: #666 !important;
+  font-size: 0.85rem;
+}
+
+
+
+.card_article{
+  opacity: 1;
+}
+
+.card_article:hover img{
+  opacity: 0.5;
+  transition : 1000ms;
+}
+.noStyle {
+  color: #ffff;
+}
+
+.btn {
+  font-family: "rockstar", cursive !important;
+  font-size: 1.6rem;
+}
+
+.liens_nav {
+  font-family: "rockstar", cursive;
+  font-size: 1.5rem;
+  color: white;
+}
+
+.fas {
+  float: right;
+  margin-top: 5%;
+}
+
+.card-img-top {
+  opacity: 0.7;
+}
+
+.card:hover .card-img-top {
+  opacity: 1;
+  transition: 1000ms;
+}
+
+.card:hover .card-header h2 {
+  font-size: 1.7rem;
+  font-weight: 300;
+  transition: 1000ms;
+}
+
+.card-header h2 {
+  font-family: "rockstar";
+  font-size: 1.5rem;
+  color: white;
+}
+
+.card-text {
+  font-family: "rockstar";
+  font-size: 1rem;
+  color: white;
+}
+
+.purchase_buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+
+.card {
+  background-color: grey;
+  border: 1px solid lightgrey;
+}
+
+.more_info {
+  background-color: orange;
+  font-family: "rockstar";
+  font-size: 1rem;
+}
+.more_info a {
+  color: rgba(0, 0, 0, 0.54);
+}
+
+.more_info:hover {
+  font-size: 1.3rem;
+  box-shadow: 1px 1px 1px 1px;
+  transition: 250ms;
+}
+
+/* GRID PRODUITS */
+
+.presentation_categorie h1 {
+  font-family: "rockstar";
+}
+
+.produit-image {
+  border: 1px solid gray;
+  margin-top: 2rem;
+}
+.produit-description {
+  width: 100%;
+  background-color: #b6b6b6;
+  text-align: center;
+  border: 1px solid gray;
+  padding: 1rem 0;
+}
+
+/* GALLERIE PRODUITS */
+
+.img-responsive {
+  position: relative;
+  width: 100%;
+  height: 200px;
+  margin-top: 1rem;
+  margin-left: 0.25rem;
+}
+.produits_titre {
+  margin-left: 0.25rem;
+  width: 100%;
+}
+.produits_titre h2 {
+  font-size: 1.5rem;
+  margin-top: 0.25rem;
+  font-weight: bold;
+  line-height: 13px;
+  font-size: 14px;
+  color: #222;
+  margin-bottom: 0;
+}
+.produits_titre hr {
+  margin-top: 0.33rem;
+  margin-bottom: 0.33rem;
+}
+.produits_titre p {
+  color: #666;
+  font-size: 12px;
+  line-height: 13px;
+}
+/*overlay*/
+
+.overlay .btn {
+  display: none;
+}
+.overlay:hover .btn {
+  display: inline;
+  position: absolute;
+  top: 33%;
+  left: 33%;
+  cursor: pointer;
+}
+
+.box-btn {
+  height: 3rem;
+}
+
+.produit-box img {
+  height: 15rem;
+}
+
+#produits {
+  padding-bottom: 3rem;
+}
+/* MODAL */
+
+.modal-header{
+  background-color: #343a40;
+}
+
+.modal-header button {
+  padding: 0;
+}
+
+.modal-title {
+  font-family: "rockstar";
+  font-size: 2rem;
+  color: white;
+}
+
+.modal-pic {
+  display: block;
+  width: 100%;
+  height: 40%;
+  background-color: #ececec;
+  margin: auto;
+  border-top: 2px solid #dee2e6;
+}
+.modal-pic img {
+  width: 45%;
+  display: block;
+  margin: 2% auto;
+}
+
+.modal-body {
+  background-color: #ececec;
+  border-top: 2px solid #dee2e6;
+}
+
+.modal-footer {
+  background-color: #ececec;
+}
+
+.moodal{
+  text-align: center;
+  font-family: 'rockstar', cursive;
+  font-size: 2em;
+}
+
+
+footer {
+ 
+  font-size: 0.85rem;
+  background-color: black;
+}
+
+footer a{
+  color:white !important;
+}
+
+.btn-socialMedia {
+  font-size: 3rem;
+}
+.copyright {
+  font-size: 0.7rem;
+}
+.close{
+  color: white;
+}
+
+.close:hover{
+  color: white;
+}
+
+.carousel-control-next-icon{
+background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%23343a40' viewBox='0 0 8 8'%3e%3cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3e%3c/svg%3e");
+}
+
+.carousel-control-prev-icon{
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%23343a40' viewBox='0 0 8 8'%3e%3cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3e%3c/svg%3e");
+  }
+
+  .team{
+    text-align: center;
+  }
+  
+  .text-nous{
+    text-align: justify;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1em;
+    line-height: 1.5rem;
+  }
+  
+  .moodal{
+    text-align: center;
+    font-family: 'rockstar', cursive;
+    font-size: 2em;
+  }
+
+  /* Page index -> cursor du courousel */
+  .carouselIndicators {
+  color:grey;
+  padding-left:48.5%;
+}
+
+.list-inline-item {
+  cursor: pointer;
+}
+
+/* Bouton retour en haut */
+a#cRetour{
+  border-radius:3px;
+  padding:10px;
+  font-size:15px;
+  text-align:center;
+  color:#fff;
+  background:rgba(0, 0, 0, 0.25);
+  position:fixed;
+  right:20px;
+  opacity:1;
+  z-index:99999;
+  transition:all ease-in 0.2s;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  text-decoration: none;
+}
+a#cRetour:before{ content: "\25b2"; }
+a#cRetour:hover{
+  background:rgba(0, 0, 0, 1);
+  transition:all ease-in 0.2s;
+}
+a#cRetour.cInvisible{
+  bottom:-35px;
+  opacity:0;
+  transition:all ease-in 0.5s;
+}
+
+a#cRetour.cVisible{
+  bottom:20px;
+  opacity:1;
+}
+
+/* import depuis style de pagesSecondaire */
+
+.navbar-brand a{
+  text-decoration: none;
+  color : white;
+}
+
+.card-title {
+  font-family: "nashvill";
+  font-size: 1.5rem;
+  color: white;
+}
+
+
+.head_categorie{
+
+    background-image:url("images/img_Voiture70/Motif retro 70/motif retro rose.jpg"); 
+}
+
+/*
